@@ -16,4 +16,4 @@ After these steps simply press the "remove spotify ads" button.
 ## Message windows and their explanations
 When pressed the button 2 windows can pop up. an error or a success message.  
 When having the error window you need to have [Spotify](https://www.spotify.com/ru-en/download/other/) installed. Installing the app from the Microsoft Store causes problems.  
-The "successfully installed" window is just a verification that everything went fine. When getting this message just close the whole program, restart spotify if it was running the process and have fun with your ad-free experience.
+The "successfully installed" window is just a verification that everything went fine. When getting this message just close the whole program, restart spotify if it was running while the patching process and have fun with your ad-free experience.
