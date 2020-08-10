@@ -13,7 +13,7 @@ Obtain a copy of the program [here](https://github.com/wp23/SpotifyAntiAd/releas
 In order to edit the hosts file the program needs Administrator permissions which you have to grant on the startup.  
 After these steps simply press the "remove spotify ads" button.
 
-## Windows and their explanations
+## Message windows and their explanations
 When pressed the button 2 windows can pop up. an error or a success message.  
 When having the error window you need to have [Spotify](https://www.spotify.com/ru-en/download/other/) installed. Installing the app from the Microsoft Store causes problems.  
 The "successfully installed" window is just a verification that everything went fine. When getting this message just close the whole program, restart spotify if it was running the process and have fun with your ad-free experience.
