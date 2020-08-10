@@ -8,7 +8,8 @@
 The program modifies the hosts file and adds some ip adresses from the [blocklist](https://raw.githubusercontent.com/wp23/SpotifyAntiAd/master/blocklist.txt) in order to block the ads.
 
 ## How to execute the program
-First of all you need to have [.NET Frame 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) which basically every Windows 10 machine has installed by default.  
+First of all you need to have [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) which basically every Windows 10 machine has installed by default.  
+Obtain a copy of the program [here](https://github.com/wp23/SpotifyAntiAd/releases/tag/1.0) and the read the important part  
 In order to edit the hosts file the program needs Administrator permissions which you have to grant on the startup.  
 After these steps simply press the "remove spotify ads" button.
 
