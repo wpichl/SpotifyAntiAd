@@ -5,7 +5,7 @@
 **SpotifyAntiAd** is a program to block annoying ads when listening to music on a free spotify account.
 
 ## How it works
-The program modifies the hosts file and adds some ip adresses from the [blocklist](https://raw.githubusercontent.com/wp23/SpotifyAntiAd/master/blocklist.txt) dumped from the spotify process in order to block the ads.
+The program modifies the hosts file and adds some ip adresses from the [blocklist](https://raw.githubusercontent.com/wp23/SpotifyAntiAd/master/blocklist.txt) (dumped from the spotify process) in order to block the ads.
 
 ## How to execute the program
 First of all you need to have [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) which basically every Windows 10 machine has installed by default.  
